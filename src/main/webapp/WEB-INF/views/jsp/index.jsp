@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Nikhil Kosare 2021</p>
 	</footer>
 </div>
 

@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hello Welcome To Nikhil Vinayak Kosare, Navi Mumbai.</h2>
-			<h3>Contact @ +91 7972340791</h3>
+			<h2>Welcome To Mithun Technologies </h2>
+			<h3>Contact @ +91-8269242028 , +91-9980923226</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Nikhil Kosare 2021</p>
+		<p>&copy; Mithun Technologies 2019</p>
 	</footer>
 </div>
 
